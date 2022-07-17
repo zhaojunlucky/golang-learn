@@ -16,7 +16,7 @@
 title: Golang
 description: Golang Learning
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://golang.magicworldz.de" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://golang.magicworldz.dev" # the base hostname & protocol for your site, e.g. http://example.com
 remote_theme: pmarsceill/just-the-docs
 
 permalink: pretty
